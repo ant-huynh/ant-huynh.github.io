@@ -1565,7 +1565,7 @@ body.is-touch .poptrox-popup .closer {
   width: 50%;
   position: relative;
   opacity: 1;
-  padding: 2%;
+  padding: 5%;
 }
 
 .gallery article .image {
@@ -2477,6 +2477,7 @@ button {
 .project-summary {
   font-size: 14px;
   text-align: left;
+  margin: 5%;
 }
 
 .button-section {
@@ -2497,6 +2498,11 @@ button {
   bottom: 0;
   width: 20%;
   transform: translate(-50%, -50%);
-  margin: 0 auto;
-  margin-top: 100%;
+  /*margin: 0 auto;*/
+  margin-top: 1000px;
+}
+
+.show-more-data,
+.show-more-web {
+  font-size: 20px;
 }
